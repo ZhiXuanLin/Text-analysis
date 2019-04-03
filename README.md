@@ -5,3 +5,6 @@ Jieba斷詞
 
 TFIDF
 透過R算出其TFIDF找出關鍵字
+
+ngram方法
+利用R將ngram寫成函數，預設為兩字斷一次，藉此計算出進行分析的詞。
